@@ -13,14 +13,7 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/adarsh-priydarshi-5646/count.svg"/>
-  <br/>
 </p>
-
-
-
-
-
-
 
 ## About Me
 
