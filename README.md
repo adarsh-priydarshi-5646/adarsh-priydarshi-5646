@@ -4,7 +4,7 @@
 </p>
 <div align="center">
 <h2 style="text-align: center; color: #0074D9;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0074D9&random=false&width=435&lines=Hello%2C+I'm+Adarsh+Priydarshi+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=#86D0DF&random=false&width=435&lines=Hello%2C+I'm+Adarsh+Priydarshi+👋" alt="Typing SVG" />
 </h2>
 
 I'm a passionate developer, coder, and technology geek with a knack for hacking into challenges and solving them one line of code at a time. 🚀
@@ -12,10 +12,11 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/adarsh-priydarshi-5646)
 <a href="https://www.instagram.com/adarsh__priydarshi/profilecard/?igsh=MTJueDFxN3E1YWo2MQ%3D%3D"><img src="https://img.shields.io/badge/Instagram-Follow%20@Adarsh_Priydarshi-E1306C"/></a>
 <br/>
- <p align="center"> 
+<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/adarsh-priydarshi-5646/count.svg" />
 </p>
+<br>
 ## About Me
 
 - 🌱 I'm constantly learning and exploring new technologies and tools.
