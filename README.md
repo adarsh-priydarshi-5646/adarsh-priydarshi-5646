@@ -5,12 +5,6 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/adarsh-priydarshi-5646)
 <a href="https://www.instagram.com/adarsh__priydarshi/profilecard/?igsh=MTJueDFxN3E1YWo2MQ%3D%3D"><img src="https://img.shields.io/badge/Instagram-Follow%20@Adarsh_Priydarshi-E1306C"/></a>
 <br/>
-</div>
-<p align="center">
-<br/>
-  <img src="https://github.com/adarsh-priydarshi-5646/adarsh-priydarshi-5646/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
-<img src="https://github.com/adarsh-priydarshi-5646/adarsh-priydarshi-5646/releases/download/L2/VivekT.gif">
-<br/>
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/adarsh-priydarshi-5646/count.svg" />
