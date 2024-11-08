@@ -36,4 +36,4 @@ Let's connect and collaborate on exciting projects:
 <br>
 Feel free to reach out, and let's build something amazing together! 🚀
 <p align="center">
-<img src="https://github.com/adarsh-priydarshi-5646/Logo/releases/download/L1/AT-HD-removebg-preview.png" height="50"></p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE99O0WPxspDhVG4whtRorJnVBOieJEbJXGw&s" height="100"></p>
