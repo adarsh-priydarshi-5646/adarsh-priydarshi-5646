@@ -1,4 +1,3 @@
-<div align="center">
 <h2 style="text-align: center; color: #0074D9;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0074D9&random=false&width=435&lines=Hello%2C+I'm+Adarsh+Priydarshi+👋" alt="Typing SVG" />
 </h2>
