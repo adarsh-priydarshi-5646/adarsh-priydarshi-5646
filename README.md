@@ -22,8 +22,7 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
 </p>
 <img src="https://github.com/adarsh-priydarshi-5646/adarsh-priydarshi-5646/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
 
-## About Me
-  
+
 ## About Me
 
 - 🌱 I'm constantly learning and exploring new technologies and tools.
