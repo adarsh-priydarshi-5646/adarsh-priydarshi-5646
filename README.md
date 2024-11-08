@@ -1,6 +1,8 @@
-<h2 style="text-align: center; color: #0074D9;">
+<div align="center">
+  <h2 style="text-align: center; color: #0074D9;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0074D9&random=false&width=435&lines=Hello%2C+I'm+Adarsh+Priydarshi+👋" alt="Typing SVG" />
 </h2>
+</div>
 <h3 align="center">I'm a passionate developer, coder, and technology geek with a knack for hacking into challenges and solving them one line of code at a time. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-priydarshi-5646&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-priydarshi-5646" /> </p>
