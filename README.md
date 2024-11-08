@@ -36,4 +36,4 @@ Let's connect and collaborate on exciting projects:
 <br>
 Feel free to reach out, and let's build something amazing together! 🚀
 <p align="center">
-<img style:"border-radius:50%"; src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE99O0WPxspDhVG4whtRorJnVBOieJEbJXGw&s" height="500"></p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE99O0WPxspDhVG4whtRorJnVBOieJEbJXGw&s" height="250" border-radius: 50%;></p>
