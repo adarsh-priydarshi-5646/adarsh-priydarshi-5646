@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/69a5248e-ad52-4b0b-81e2-bb681e5fdb1a)>
+<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 "
 <div align="center">
   <h2 style="text-align: center; color: #0074D9;">
