@@ -15,6 +15,13 @@ I'm a passionate developer, coder, and technology geek with a knack for hacking 
   <img src="https://profile-counter.glitch.me/adarsh-priydarshi-5646/count.svg"/>
 </p>
 
+
+
+
+
+
+
+
 ## About Me
 
 - 🌱 I'm constantly learning and exploring new technologies and tools.
