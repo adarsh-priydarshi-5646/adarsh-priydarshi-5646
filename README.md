@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/69a5248e-ad52-4b0b-81e2-bb681e5fdb1a)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/69a5248e-ad52-4b0b-81e2-bb681e5fdb1a)>
 "
 <div align="center">
   <h2 style="text-align: center; color: #0074D9;">
