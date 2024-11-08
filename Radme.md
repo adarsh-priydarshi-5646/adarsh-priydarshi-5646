@@ -29,4 +29,5 @@ Let's connect and collaborate on exciting projects:
 - 📧 Email: [adarshpriydarshi@gmail.com](mailto:adarshpriydarshi5646@gmail.com)
 - 💼 LinkedIn: [@Adarsh Priydarshi](https://www.linkedin.com/in/adarsh-priydarshi-536430316/)
 - <img src="https://github.com/AryanVBW/AryanVBW/blob/main/Instagram.png" height="15"> Instagram: [@adarsh_priydarshi](https://www.instagram.com/adarsh__priydarshi/profilecard/?igsh=MTJueDFxN3E1YWo2MQ%3D%3D)
+<br>
 Feel free to reach out, and let's build something amazing together! 🚀
