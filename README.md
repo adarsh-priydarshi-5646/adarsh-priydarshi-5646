@@ -4,6 +4,10 @@
 </h2>
 </div>
 <h3 align="center">I'm a passionate developer, coder, and technology geek with a knack for hacking into challenges and solving them one line of code at a time. 🚀</h3>
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Aryanvbw/count.svg" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-priydarshi-5646&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-priydarshi-5646" /> </p>
 
