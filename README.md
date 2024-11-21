@@ -12,7 +12,8 @@
   <img src="https://profile-counter.glitch.me/adarsh-priydarshi-5646/count.svg" />
 </p>
 - 🔭 I’m currently working on My Portfolio Website
-- click here 🔗 https://adarshpriydarshiportfolio.netlify.app/**
+
+- 🔗 click here https://adarshpriydarshiportfolio.netlify.app/
 
 - 🌱 I’m currently pursuing **B.Tech CSE and AI-ML**
 
