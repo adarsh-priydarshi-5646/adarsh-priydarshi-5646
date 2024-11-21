@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=90EE90&random=false&width=435&lines=Hello%2C+I'm+Adarsh+Priydarshi+👋" alt="Typing SVG" />
 </h2>
 </div>
-<h3 align="center">I’m a passionate developer with a deep interest in coding and technology. I thrive on solving challenges and always aim to crack problems with just one line of code. Web development and staying updated with the latest tech trends have always been my focus. Every day presents a new opportunity to learn something new and improve my coding skills. 🚀</h3>
+<h3 align="center">I’m a passionate developer with a deep interest in coding and technology. my focus Every day presents a new opportunity to learn something new and improve my coding skills. 🚀</h3>
  <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/adarsh-priydarshi-5646/count.svg" />
