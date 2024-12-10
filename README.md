@@ -7,13 +7,12 @@
 </h2>
 </div>
 <h3 align="center">I’m a passionate developer with a deep interest in coding and technology. my focus Every day presents a new opportunity to learn something new and improve my coding skills. 🚀</h3>
-  <img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
- <p align="center">
-   
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/adarsh-priydarshi-5646/count.svg" />
-</p>
-  <img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
+<img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
+   <p align="center">
+     Visitor count<br>
+     <img src="https://profile-counter.glitch.me/adarsh-priydarshi-5646/count.svg" />
+   </p>
+<img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
