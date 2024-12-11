@@ -12,7 +12,6 @@
      Visitor count<br>
      <img src="https://profile-counter.glitch.me/adarsh-priydarshi-5646/count.svg" />
    </p>
-<img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
@@ -23,7 +22,7 @@
 - 📫 How to reach me **adarshpriydarshi5646@gmail.com**
 
 - ⚡ Fun fact **I think I am funny 😊**
-
+<img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adarshpriydarshi5646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshpriydarshi5646" height="30" width="40" /></a>
