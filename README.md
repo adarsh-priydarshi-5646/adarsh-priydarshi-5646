@@ -48,7 +48,9 @@
 </div>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-priydarshi-5646&show_icons=true&theme=dark)](https://github.com/aryanvbw)
+## 📈 GitHub Stats
+
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-priydarshi-5646&show_icons=true&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-priydarshi-5646&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
