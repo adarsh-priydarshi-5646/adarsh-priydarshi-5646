@@ -15,7 +15,7 @@
 
 - 🔭 **My Portfolio Website 👇**
 
-- 🔗 click here https://adarshpriydarshiportfolio.netlify.app/
+- 🔗 click here https://adarshpriyadarshiportfolio.netlify.app/
 
 - 🌱 I’m currently pursuing **B.Tech CSE and AI-ML**
 
