@@ -46,12 +46,16 @@
 <div style="display: flex; justify-content: space-between;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh-priydarshi-5646&theme=aura" alt="GitHub Stats" width="45%" />
 </div>
+
+
 ---
 
 ## 🏆 **Trophies & Achievements**  
-![GitHub trophy](https://github-profile-trophy.vercel.app/?username=adarsh-priydarshi-5646&theme=darkhub&margin-w=15&no-bg=true&no-frame=true)  
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=CodeMaverick-143&theme=darkhub&margin-w=15&no-bg=true&no-frame=true)  
 
 ---
+
+
 ## 📈 GitHub Stats
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-priydarshi-5646&show_icons=true&theme=radical)
