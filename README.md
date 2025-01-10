@@ -51,7 +51,7 @@
 ---
 
 ## 🏆 **Trophies & Achievements**  
-![GitHub trophy](https://github-profile-trophy.vercel.app/?username=CodeMaverick-143&theme=darkhub&margin-w=15&no-bg=true&no-frame=true)  
+![GitHub trophy](https://github-profile-trophy.vercel.app/?username=adarsh-priydarshi-5646&theme=darkhub&margin-w=15&no-bg=true&no-frame=true)  
 
 ---
 
