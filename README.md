@@ -69,7 +69,7 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=adarsh-priydarshi-5646&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-priydarshi-5646" alt="adarsh-git" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-priydarshi-5646&" alt="adarsh-git" /></p>
 
 <img align="right" alt="coding" width="1000" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dzaW5nMmZreGd6bHVhcDlkYXp5YXQ0ZnpoMjkxM2Jjbm5memdqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif">
 
