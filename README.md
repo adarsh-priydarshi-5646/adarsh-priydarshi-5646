@@ -68,3 +68,19 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=adarsh-priydarshi-5646&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<div align="center">
+<a href="#">
+    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
+</a>
+<br>
+<p>
+    <img src="https://img.shields.io/badge/Nexus%20AI%20Launch-825%20Days-C2FFC7?style=for-the-badge&logo=clockify&logoColor=black" alt="Launch Countdown"/>
+</p>
+<blockquote>
+<p><strong>"Keep coding, stay innovative, and build the future! ✨"</strong></p>
+</blockquote>
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer"/>
+</p>
+</div>
+
