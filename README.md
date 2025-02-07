@@ -56,6 +56,7 @@
 
 <div style="display: flex; justify-content: space-between;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh-priydarshi-5646&theme=aura" alt="GitHub Stats" width="45%" />
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=adarsh-priydarshi-5646&theme=prussian&hide_border=false)
 </div>
 
 
@@ -67,8 +68,6 @@
 ---
 
 ## 📈 GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=adarsh-priydarshi-5646&theme=prussian&hide_border=false)<br/>
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-priydarshi-5646&show_icons=true&theme=radical)
 
