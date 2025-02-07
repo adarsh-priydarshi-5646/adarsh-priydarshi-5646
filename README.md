@@ -68,6 +68,8 @@
 
 ## 📈 GitHub Stats
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=adarsh-priydarshi-5646&theme=prussian&hide_border=false)<br/>
+
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-priydarshi-5646&show_icons=true&theme=radical)
 
 ![](https://github-contributor-stats.vercel.app/api?username=adarsh-priydarshi-5646&limit=5&theme=dark&combine_all_yearly_contributions=true)
