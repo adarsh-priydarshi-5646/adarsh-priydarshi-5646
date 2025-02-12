@@ -68,9 +68,12 @@
 
 ## 📈 GitHub Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=dark-smoky&border_radius=5&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=dark-smoky&border_radius=5)](https://git.io/streak-stats)
+
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-priydarshi-5646&show_icons=true&theme=radical)
+
 
 ![](https://github-contributor-stats.vercel.app/api?username=adarsh-priydarshi-5646&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
