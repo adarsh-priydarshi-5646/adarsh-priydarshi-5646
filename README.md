@@ -68,7 +68,7 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=dark-smoky&border_radius=5&card_width=500&card_height=200)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=dark-smoky&border_radius=5&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-priydarshi-5646&show_icons=true&theme=radical)
 
