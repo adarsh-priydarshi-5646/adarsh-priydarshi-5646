@@ -1,11 +1,7 @@
 ![logo](https://github.com/adarsh-priydarshi-5646/adarsh-priydarshi-5646/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <br>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
-<div align="center">
-  <h2 style="text-align: center; color: #0074D9;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fff3051f1c92bb7f73344fa8e37fcdf8ffbd377&random=false&width=435&lines=Hello%2C+I'm+Adarsh+Priydarshi+👋" alt="Typing SVG" />
-</h2>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mission+Script&pause=1000&color=53F1F7&background=19EEFF00&width=435&lines=%22Hi+I'm+Adarsh+Priydarshi+%F0%9F%91%8B%22)](https://git.io/typing-svg)
 <h3 align="center">I’m a passionate developer with a deep interest in coding and technology. my focus Every day presents a new opportunity to learn something new and improve my coding skills. 🚀</h3>
 <img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
    <p align="center">
