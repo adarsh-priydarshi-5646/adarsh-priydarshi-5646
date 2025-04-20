@@ -4,7 +4,6 @@
 
 <br></br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mission+Script&pause=1000&color=53F1F7&background=19EEFF00&width=435&lines=%22Hi+I'm+Adarsh+Priydarshi+%F0%9F%91%8B%22)](https://git.io/typing-svg)
-]
 <h3 align="center">I’m a passionate developer with a deep interest in coding and technology. my focus Every day presents a new opportunity to learn something new and improve my coding skills. 🚀</h3>
 <img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
    <p align="center">
