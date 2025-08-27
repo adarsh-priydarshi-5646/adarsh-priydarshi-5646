@@ -25,17 +25,9 @@
 
 - ⚡ Fun fact **I think I am funny 😊**
 <img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adarshpriydarshi5646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshpriydarshi5646" height="30" width="40" /></a>
-<a href="https://fb.com/adarshpriydarshi5646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarshpriydarshi5646" height="30" width="40" /></a>
-<a href="https://instagram.com/adarsh_priydarshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarsh_priydarshi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/priydarshi5646" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priydarshi5646" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adarshpriydarsh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarshpriydarsh2" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@adarshpriydarshi5646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adarshpriydarshi5646" height="30" width="40" /></a>
-</p>
 
 ---
+
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
 
 <p align="center">
@@ -45,10 +37,6 @@
     <img alt="GIF description" src="./Skills_Animation_White.gif" width="600">
   </picture>
 </p>
-
-
-
-
 
 ---
 
