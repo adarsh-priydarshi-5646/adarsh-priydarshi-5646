@@ -35,10 +35,6 @@
 <a href="https://www.hackerearth.com/@adarshpriydarshi5646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adarshpriydarshi5646" height="30" width="40" /></a>
 </p>
 
-
-
-
-# 💻 Tech Stack:
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 <picture>
@@ -47,7 +43,6 @@
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
 <br />
----
 
 <h3 align="center">Contribution Snake</h3>
 <p align="center">
