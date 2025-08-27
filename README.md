@@ -35,6 +35,7 @@
 <a href="https://www.hackerearth.com/@adarshpriydarshi5646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adarshpriydarshi5646" height="30" width="40" /></a>
 </p>
 
+---
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
 
 <p align="center">
@@ -49,12 +50,13 @@
 
 
 
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
-
+---
 
 # Github Activity Graph 📈
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh-priydarshi-5646&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/adarsh-priydarshi-5646/github-readme-activity-graph)
