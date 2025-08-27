@@ -35,16 +35,16 @@
 <a href="https://www.hackerearth.com/@adarshpriydarshi5646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@adarshpriydarshi5646" height="30" width="40" /></a>
 </p>
 
-<!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="GIF description" src="./Skills_Animation_White.gif">
+    <img alt="GIF description" src="./Skills_Animation_White.gif" width="600">
   </picture>
 </p>
+
 
 
 
