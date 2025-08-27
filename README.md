@@ -38,14 +38,15 @@
 <!--Languages and Tools Section-->       
 <h2 style="text-align: center;">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
     <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-    <img alt="GIF description" src="./Skills_Animation_White.gif">
+    <img alt="GIF description" src="./Skills_Animation_White.gif" style="display: block;">
   </picture>
 </div>
 <br />
+
 
 
 
