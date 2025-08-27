@@ -8,7 +8,7 @@
 <img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
       Visitor count<br>
 
-[![GitHub Views](https://komarev.com/ghpvc/?adarsh-priydarshi-5646e=natterstefan&color=FAC151)][1]
+![](https://api.visitorbadge.io/api/VisitorHit?adarsh-priydarshi-5646=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 - 🔭 **My Portfolio Website 👇**
 
