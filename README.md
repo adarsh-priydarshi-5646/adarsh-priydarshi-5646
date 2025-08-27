@@ -72,6 +72,30 @@
 ![](https://github-contributor-stats.vercel.app/api?username=adarsh-priydarshi-5646&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:adarshpriydarshi5646@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/adarsh__priydarshi/?hl=en" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/adarsh-priydarshi-5646" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/adarsh-priydarshi-536430316/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
+
+---
 
 <div align="center">
 <a href="#">
@@ -88,4 +112,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer"/>
 </p>
 </div>
+
+
+
 
