@@ -26,7 +26,7 @@
 
 ---
 
-<h2 align="center"><---Tᴇᴄʜ sᴛᴀᴄᴋ---></h2>
+<h2 align="center"><------------Tᴇᴄʜ sᴛᴀᴄᴋ------------></h2>
 
 <p align="center">
   <picture>
