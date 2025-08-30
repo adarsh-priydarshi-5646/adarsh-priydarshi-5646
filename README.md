@@ -53,19 +53,15 @@
 </div>
  
 <div style="display: flex; justify-content: space-between;">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=bear&card_width=450)](https://git.io/streak-stats) 
-  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh-priydarshi-5646&theme=aura" alt="GitHub Stats" width="45%" />
 </div>
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats & Streak
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-priydarshi-5646&show_icons=true&theme=radical)
-
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh-priydarshi-5646&theme=aura" alt="GitHub Stats" width="45%" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=bear&card_width=450)](https://git.io/streak-stats) 
+  ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-priydarshi-5646&show_icons=true&theme=radical)
 
 ---
 <!--Contact Section--> 
