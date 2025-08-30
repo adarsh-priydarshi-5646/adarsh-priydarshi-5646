@@ -60,7 +60,7 @@
 
 # 📈 GitHub Streak
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=bear&card_width=450 )](https://git.io/streak-stats) 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=transparent&border_radius=5.5&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ---
 <!--Contact Section--> 
