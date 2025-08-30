@@ -58,10 +58,9 @@
 
 ---
 
-# 📈 GitHub Stats & Streak
+# 📈 GitHub Streak
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=bear&card_width=450)](https://git.io/streak-stats) 
-  ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-priydarshi-5646&show_icons=true&theme=radical)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=bear&card_width=450 )](https://git.io/streak-stats) 
 
 ---
 <!--Contact Section--> 
