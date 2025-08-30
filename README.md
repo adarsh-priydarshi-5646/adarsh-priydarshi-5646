@@ -62,7 +62,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=transparent&border_radius=5.5&card_width=500&card_height=230)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=transparent&border_radius=5.5&card_width=550&card_height=250)](https://git.io/streak-stats)
 
 </div>
 
