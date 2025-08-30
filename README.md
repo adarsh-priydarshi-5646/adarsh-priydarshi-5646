@@ -52,14 +52,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh-priydarshi-5646&theme=aura" alt="Most Commit Language" width="45%" />
 </div>
  
-<div style="display: flex; justify-content: space-between;"  align="right">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=bear&card_width=450)](https://git.io/streak-stats)
-
-</div>
-
 <div style="display: flex; justify-content: space-between;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh-priydarshi-5646&theme=aura" alt="GitHub Stats" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh-priydarshi-5646&theme=aura" alt="GitHub Stats" width="45%" />
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=bear&card_width=450)](https://git.io/streak-stats) 
 </div>
 
 ---
