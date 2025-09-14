@@ -1,4 +1,5 @@
-![logo](https://github.com/adarsh-priydarshi-5646/adarsh-priydarshi-5646/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo]([https://github.com/adarsh-priydarshi-5646/adarsh-priydarshi-5646/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png](https://media.licdn.com/dms/image/v2/D4E16AQHgHmbiBp8x6g/profile-displaybackgroundimage-shrink_350_1400/B4EZkGhz2rGwAc-/0/1756751156836?e=1760572800&v=beta&t=ZXypJiPPYVpFiNWiRoUzY1-CDoX0tK2FxWMdC6ubOtA))
+
 <br>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
