@@ -8,21 +8,24 @@
 <h3 align="center">I’m a passionate developer with a deep interest in coding and technology. my focus Every day presents a new opportunity to learn something new and improve my coding skills. 🚀</h3>
 <img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
 
----
 <!--Profile Count Badge-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adarsh-priydarshi-5646&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
-- 🔭 **My Portfolio Website 👇**
+- 🔭 **My Portfolio Website:**  
+  [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adarsh-priydarshi.vercel.app/)
 
-- 🔗 click here https://adarsh-priydarshi.vercel.app/
+- 🌱 **Currently Pursuing:**  
+  ![Study](https://img.shields.io/badge/Study-B.Tech%20CSE-green?style=for-the-badge&logo=bookstack&logoColor=white)  
+  Focus on **AI & ML**
 
-- 🌱 I’m currently pursuing **B.Tech CSE and AI-ML**
+- ⚡ **Fun Fact:**  
+  ![Fun](https://img.shields.io/badge/Fun-I%20think%20I%20am%20funny-yellow?style=for-the-badge&logo=smiley&logoColor=white)
 
-- 📫 How to reach me **adarshpriydarshi5646@gmail.com**
+- 🏆 **Goal:**  
+  ![Goal](https://img.shields.io/badge/Goal-Build%20impactful%20projects-blueviolet?style=for-the-badge)
 
-- ⚡ Fun fact **I think I am funny 😊**
 <img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
 
 ---
@@ -33,11 +36,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsKayWat/itsKayWat/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
 
 # Github Activity Graph 📈
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh-priydarshi-5646&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/adarsh-priydarshi-5646/github-readme-activity-graph)
@@ -62,45 +60,44 @@
 </div>
 
 ---
-<!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
+
+<h1>
   
-<a href="mailto:adarshpriydarshi5646@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
-</a>
+  <img src="https://img.shields.io/badge/Thanks for Visiting My GitHub!-👋-blue" alt="Welcome Icon" height="28px"/>
+  
+</h1>
 
-<a href="https://www.instagram.com/adarsh__priydarshi/?hl=en" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://github.com/adarsh-priydarshi-5646" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/adarsh-priydarshi-536430316/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>
-
-<div align="center">
-<a href="#">
-    <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C2FFC7&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=000000&animation=twinkling"/>
-</a>
-<br>
 <p>
-    <img src="https://img.shields.io/badge/Nexus%20AI%20Launch-825%20Days-C2FFC7?style=for-the-badge&logo=clockify&logoColor=black" alt="Launch Countdown"/>
+Building <strong>modern web apps</strong> and exploring <strong>AI & Machine Learning</strong>.<br/>
+<em>Clean code • Creative logic • Continuous learning</em>
 </p>
-<blockquote>
-<p><strong>"Keep coding, stay innovative, and build the future! ✨"</strong></p>
-</blockquote>
+
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer"/>
+  <a href="https://github.com/adarsh-priydarshi-5646" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/adarsh-p1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:adarshpriydarshi5646@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://www.instagram.com/adarsh__priydarshi/)" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
-</div>
 
 ---
+
+> **Building scalable solutions with clean code & creativity.**  
+> _“Learn. Build. Evolve.”_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=100&section=footer&text=Happy%20Coding!&fontSize=45&fontAlignY=40&fontColor=ffffff&fontFamily=Pacifico"/>
+
+</div>
+
+<img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
 
 
