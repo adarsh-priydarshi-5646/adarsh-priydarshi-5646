@@ -13,8 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=adarsh-priydarshi-5646&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
-[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adarsh-priydarshi.vercel.app/)![Study](https://img.shields.io/badge/Study-B.Tech%20CSE-green?style=for-the-badge&logo=bookstack&logoColor=white) ![Fun](https://img.shields.io/badge/Fun-I%20think%20I%20am%20funny-yellow?style=for-the-badge&logo=smiley&logoColor=white) ![Goal](https://img.shields.io/badge/Goal-Build%20impactful%20projects-blueviolet?style=for-the-badge)
-
 ---
 
 # My Tech Stack 🚀 
