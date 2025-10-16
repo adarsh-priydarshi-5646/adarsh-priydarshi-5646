@@ -13,20 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=adarsh-priydarshi-5646&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
-- 🔭 **My Portfolio Website:**  
-  [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adarsh-priydarshi.vercel.app/)
-
-- 🌱 **Currently Pursuing:**  
-  ![Study](https://img.shields.io/badge/Study-B.Tech%20CSE-green?style=for-the-badge&logo=bookstack&logoColor=white)  
-  Focus on **AI & ML**
-
-- ⚡ **Fun Fact:**  
-  ![Fun](https://img.shields.io/badge/Fun-I%20think%20I%20am%20funny-yellow?style=for-the-badge&logo=smiley&logoColor=white)
-
-- 🏆 **Goal:**  
-  ![Goal](https://img.shields.io/badge/Goal-Build%20impactful%20projects-blueviolet?style=for-the-badge)
-
-<img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
+  [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adarsh-priydarshi.vercel.app/)  ![Study](https://img.shields.io/badge/Study-B.Tech%20CSE-green?style=for-the-badge&logo=bookstack&logoColor=white) ![Fun](https://img.shields.io/badge/Fun-I%20think%20I%20am%20funny-yellow?style=for-the-badge&logo=smiley&logoColor=white) ![Goal](https://img.shields.io/badge/Goal-Build%20impactful%20projects-blueviolet?style=for-the-badge)
 
 ---
 
@@ -34,8 +21,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![DSA](https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=for-the-badge&logo=clerk&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 
----
-
+<img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
 
 # Github Activity Graph 📈
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh-priydarshi-5646&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/adarsh-priydarshi-5646/github-readme-activity-graph)
