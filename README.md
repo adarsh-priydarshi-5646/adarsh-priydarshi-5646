@@ -29,6 +29,16 @@
 
 <img src="https://github.com/AryanVBW/AryanVBW/blob/e7c43b9c8e4e68b1b93967704dc8158b2ff8e552/line.gif" width="900">
 
+# 📈 GitHub Streak
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=transparent&border_radius=5.5&card_width=550&card_height=250)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 # Github Activity Graph 📈
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh-priydarshi-5646&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/adarsh-priydarshi-5646/github-readme-activity-graph)
 
@@ -39,16 +49,6 @@
  
 <div style="display: flex; justify-content: space-between;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh-priydarshi-5646&theme=aura" alt="GitHub Stats" width="45%" />
-</div>
-
----
-
-# 📈 GitHub Streak
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-priydarshi-5646&theme=transparent&border_radius=5.5&card_width=550&card_height=250)](https://git.io/streak-stats)
-
 </div>
 
 ---
