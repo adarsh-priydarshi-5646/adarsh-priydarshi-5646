@@ -1,10 +1,6 @@
 <div align="center">
 
-![Profile Banner](https://github.com/adarsh-priydarshi-5646/adarsh-priydarshi-5646/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
-
-# Hi, I'm Adarsh Priydarshi 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Problem+Solver+%7C+System+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%7C+MERN+Stack;Open+Source+Contributor;Problem+Solver)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/adarsh-p1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -21,9 +17,9 @@
 
 ```yaml
 Role: Full Stack Developer
-Specialization: MERN Stack | System Design | DSA
+Specialization: MERN Stack | App Development (ReactNative)| DSA
 Focus: Building production-ready, scalable web applications
-Expertise: React.js, Node.js, PostgreSQL, MongoDB, REST APIs
+Expertise: React.js, Node.js, SQL, MongoDB, REST APIs
 Approach: Clean code, best practices, performance optimization
 ```
 
