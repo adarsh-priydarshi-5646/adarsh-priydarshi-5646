@@ -1,3 +1,7 @@
+<div align="center">
+
+![Profile Banner](https://github.com/adarsh-priydarshi-5646/adarsh-priydarshi-5646/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+
 # Hi, I'm Adarsh Priydarshi 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Problem+Solver+%7C+System+Designer)](https://git.io/typing-svg)
@@ -109,60 +113,30 @@ Approach: Clean code, best practices, performance optimization
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<table>
-<tr>
-<td width="50%" align="center">
-  
-**GitHub Streak**
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-priydarshi-5646&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="120%" />
 
-</td>
-<td width="50%" align="center">
+### 📈 Contribution Graph
 
-**GitHub Stats**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh-priydarshi-5646&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Activity Graph" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adarsh-priydarshi-5646&theme=github_dark" alt="GitHub Stats" width="120%" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-**Contribution Activity**
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh-priydarshi-5646&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true)](https://github.com/adarsh-priydarshi-5646)
-
-</div>
-
-<div align="center">
+### 💻 Language Distribution
 
 <table>
-<tr>
-<td width="50%" align="center">
-
-**Top Languages by Repo**
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh-priydarshi-5646&theme=github_dark" alt="Languages by Repo" width="120%" />
-
-</td>
-<td width="50%" align="center">
-
-**Top Languages by Commit**
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh-priydarshi-5646&theme=github_dark" alt="Languages by Commit" width="120%" />
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adarsh-priydarshi-5646&theme=github_dark" alt="Top Languages by Repository" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adarsh-priydarshi-5646&theme=github_dark" alt="Top Languages by Commit" />
+    </td>
+  </tr>
 </table>
+
+### Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adarsh-priydarshi-5646&theme=github_dark" alt="GitHub Profile Summary" />
 
 </div>
 
