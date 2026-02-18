@@ -16,15 +16,17 @@
 ## 💼 Professional Summary
 
 ```yaml
-Role: Full Stack Developer
-Specialization: MERN Stack | App Development (ReactNative)| DSA
-Focus: Building production-ready, scalable web applications
-Expertise: React.js, Node.js, SQL, MongoDB, REST APIs
-Approach: Clean code, best practices, performance optimization
+Role: Full Stack Developer | DevOps Engineer
+Specialization: MERN Stack | App Development (React Native) | DSA | DevOps | System Design
+Focus: Building production-ready, scalable, and high-performance web applications
+Expertise: React.js, Node.js, SQL, MongoDB, REST APIs, [ CI/CD, SonarQube, Snyk, AWS, Docker, Kubernetes, Terraform, Grafana ]
+Approach: Clean code, best practices, performance optimization, scalability, and reliability
 ```
 
 **🎯 What I Bring to the Table:**
 - ✅ End-to-end feature development (Frontend + Backend)
+- ✅ DevOps practices including CI/CD pipelines and cloud-native (AWS) deployments  
+     with containerization (Docker), orchestration (Kubernetes), and IaC (Terraform)
 - ✅ Database design & optimization (SQL & NoSQL)
 - ✅ RESTful API architecture & microservices
 - ✅ Responsive UI/UX with modern frameworks
