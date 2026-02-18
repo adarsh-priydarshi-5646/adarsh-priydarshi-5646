@@ -65,6 +65,33 @@ Approach: Clean code, best practices, performance optimization, scalability, and
 <tr>
 <td valign="top" width="50%">
 
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### System Design
+![Scalable Systems](https://img.shields.io/badge/Scalable_Systems-0A66C2?style=flat-square)
+![High Availability](https://img.shields.io/badge/High_Availability-2E7D32?style=flat-square)
+![Load Balancing](https://img.shields.io/badge/Load_Balancing-6A1B9A?style=flat-square)
+![Caching](https://img.shields.io/badge/Caching-FF8F00?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-37474F?style=flat-square)
+![API Design](https://img.shields.io/badge/API_Design-00897B?style=flat-square)
+![Database Design](https://img.shields.io/badge/Database_Design-455A64?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 ### Database & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -147,14 +174,32 @@ const adarsh = {
   code: ["JavaScript", "Python", "HTML/CSS", "SQL"],
   technologies: {
     frontend: ["React", "React Native", "TailwindCSS", "Material-UI"],
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    databases: ["PostgreSQL", "MongoDB", "Prisma ORM"],
+    backend: ["Node.js", "Express.js", "REST APIs", "JWT Auth"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "Prisma ORM"],
+    devops: ["AWS", "Docker", "Kubernetes", "CI/CD", "Terraform", "Grafana", "SonarQube", "Snyk"],
     deployment: ["Vercel", "Netlify", "Render", "Supabase"]
   },
-  architecture: ["Microservices", "RESTful APIs", "MVC Pattern"],
-  currentFocus: "Building scalable full-stack applications",
-  openSource: "Active contributor",
-  hiring: "Available for opportunities"
+  architecture: [
+    "Microservices",
+    "RESTful APIs",
+    "MVC Pattern",
+    "Scalable System Design",
+    "High Availability",
+    "Caching Strategies"
+  ],
+  dsa: [
+    "Data Structures",
+    "Algorithms",
+    "Problem Solving (LeetCode)"
+  ],
+  security: [
+    "Authentication & Authorization",
+    "JWT",
+    "Secure API Design"
+  ],
+  currentFocus: "Building scalable, secure, and production-ready full-stack systems",
+  openSource: "Active contributor & collaborative developer",
+  hiring: "Open to internships, full-time roles, and freelance opportunities"
 };
 ```
 
