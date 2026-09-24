@@ -16,12 +16,19 @@
 ## Professional Summary
 
 ```yaml
-Role: Full Stack Developer | DevOps Engineer
-Specialization: MERN Stack | App Development (React Native) | DSA | DevOps | System Design
-Focus: Building production-ready, scalable, and high-performance web applications
-Expertise: React.js, Node.js, SQL, MongoDB, REST APIs, 
-Devops: [ CI/CD, SonarQube, Snyk, AWS, Docker, Kubernetes, Terraform, Grafana ]
-Approach: Clean code, best practices, performance optimization, scalability, and reliability
+Role: Software Engineer | Backend / Full Stack Engineer | DevOps Engineer
+
+Specialization: Software Engineering | Backend Development | Full Stack Development | System Design | Cloud & DevOps | AI/ML & GenAI | DSA
+
+Focus: Building production-ready, scalable, high-performance, secure, and reliable software systems and applications.
+
+Expertise: Python, JavaScript, TypeScript, React.js, React Native, Node.js, Express.js, REST APIs, SQL, MongoDB, LLD, HLD, System Design, Software Architecture
+
+AI/ML: Machine Learning, Deep Learning, NLP, Generative AI, LLMs, RAG, AI-powered Applications
+
+Cloud & DevOps: AWS, Docker, Kubernetes, Terraform, CI/CD, SonarQube, Snyk
+
+Engineering: Clean Code, Design Patterns, SOLID Principles, OOP, Performance Optimization, Scalability, Security, Observability, Reliability, Testing, and Production Engineering
 ```
 
 <div align="center">
