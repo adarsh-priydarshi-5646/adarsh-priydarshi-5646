@@ -40,7 +40,7 @@ Multi-role food delivery application for customers, restaurant owners and delive
 **Stack:** React, Redux Toolkit, Node.js, Express, MongoDB, Socket.IO, Docker, AWS.
 
 ### 2. MyCampusHub — Campus Management App
-
+---
 [GitHub Repository](https://github.com/adarsh-priydarshi-5646/My_Campus_Hub)
 
 Campus-focused mobile application covering academic information, events, faculty and campus utilities.
@@ -55,7 +55,7 @@ Campus-focused mobile application covering academic information, events, faculty
 **Stack:** React Native, Expo, Node.js, Express, Prisma, PostgreSQL.
 
 ### 3. The Daily Tiffin Tracker
-
+---
 [GitHub Repository](https://github.com/adarsh-priydarshi-5646/Tiffin-Meal-Tracker)
 
 A responsive meal-order ledger for tracking customers, daily meals, bills, payments, exports and audit history.
@@ -67,7 +67,7 @@ A responsive meal-order ledger for tracking customers, daily meals, bills, payme
 **Stack:** TypeScript, Prisma, PostgreSQL.
 
 ### 4. Adaptive Fitness Companion
-
+---
 [GitHub Repository](https://github.com/adarsh-priydarshi-5646/Adaptive-Fitness-AI-Chatbot)
 
 A React Native AI chatbot with onboarding, structured chat responses and conversation history.
@@ -83,9 +83,12 @@ A React Native AI chatbot with onboarding, structured chat responses and convers
 
 ## Experience
 
-**NextYou — Founding Team Member & Backend Developer**
+### Founding Team Member & Backend Developer — NextYou
 
-Worked on product development involving backend services, APIs and application infrastructure. Experience included Node.js, Express, FastAPI, databases, real-time communication, mobile integration and cloud/DevOps workflows.
+- Worked on backend development and API integration.
+- Contributed to application architecture and database workflows.
+- Worked with cloud infrastructure and deployment workflows.
+- Collaborated on mobile application development.
 
 ## Open Source Contributions
 
@@ -95,6 +98,8 @@ Worked on product development involving backend services, APIs and application i
 ---
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing+Together)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+build+something+impactful!+🚀)](https://git.io/typing-svg)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
+
+---
