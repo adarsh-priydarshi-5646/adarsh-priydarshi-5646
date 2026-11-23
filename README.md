@@ -87,12 +87,12 @@ A React Native AI chatbot with onboarding, structured chat responses and convers
 
 Worked on product development involving backend services, APIs and application infrastructure. Experience included Node.js, Express, FastAPI, databases, real-time communication, mobile integration and cloud/DevOps workflows.
 
-## Technical Interests
+## Open Source Contributions
 
-Full Stack Development · Backend Engineering · React Native · Cloud Infrastructure · DevOps · System Design
+- **Open Healthcare Network (OHC):** Contributed to open-source projects through pull requests, code reviews, and community collaboration. - 
+[View my OHC Contributor Profile](https://contributors.ohc.network/adarsh-priydarshi-5646/)
 
 ---
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing+Together)](https://git.io/typing-svg)
